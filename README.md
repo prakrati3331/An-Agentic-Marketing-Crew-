@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Google reference article: https://ai.google.dev/gemini-api/docs/crewai-example
-=======
 # An-Agentic-Marketing-Crew-
->>>>>>> 664960128b943ceecd68dbfc8e49fbebbb6374dd
+
+This is an agentic Marketing Crew consisting of a Head of Marketing, a Creative Content Creator, a Content Writer and an SEO specialist. This agentic system is built using Crewai.
+
+
+Google reference article: https://ai.google.dev/gemini-api/docs/crewai-example
