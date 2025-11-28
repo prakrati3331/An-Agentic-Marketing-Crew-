@@ -1,0 +1,1 @@
+Google reference article: https://ai.google.dev/gemini-api/docs/crewai-example
